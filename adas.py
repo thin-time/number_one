@@ -1,0 +1,2 @@
+aaa="adasdadsads"
+print(aaa)
