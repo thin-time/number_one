@@ -1,2 +1,0 @@
-dd="dddddd"
-print(dd)
