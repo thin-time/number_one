@@ -1,2 +1,2 @@
 a="dsfassadfasd"
-
+print(a)
